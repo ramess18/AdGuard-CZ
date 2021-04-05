@@ -5,7 +5,7 @@
 ! License: 
 ! Last modified: 2021-04-05T09:50:31.633Z
 !
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
+! Source: https://raw.githubusercontent.com/ramess18/AdGuard-CZ-list/main/czlist.txt
 !
 ||c-ng.seznam.cz^
 /d49-a.sdn.cz/
