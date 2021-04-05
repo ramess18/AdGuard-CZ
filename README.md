@@ -1,2 +1,2 @@
-# AdGuard-CZ
-Czech Ads list for AdGuard
+# AdGuard Czech's ads server list
+Czech advertisment servers list for AdGuard Home.
